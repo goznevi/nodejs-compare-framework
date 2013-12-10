@@ -47,3 +47,6 @@ Igor Minar – @IgorMinar
 [Unni’s blog on Silverlight to Angular](http://csharprambling.wordpress.com).
 
 [Marcable editor](http://markable.in/editor/)
+
+[Marcable from html](http://html2markdown.com/)
+
