@@ -46,6 +46,15 @@ Igor Minar – @IgorMinar
 
 [Unni’s blog on Silverlight to Angular](http://csharprambling.wordpress.com).
 
+
+Tutorials
+
+[Meet ups](http://www.youtube.com/user/angularjs) 
+
+Jeff Dickey an example of someone comming frombackend development
+[The Thick Front End](http://www.youtube.com/watch?v=hv2NEW0uC1o)
+Interesting comment about how to come to js from back end
+
 [Marcable editor](http://markable.in/editor/)
 
 [Marcable from html](http://html2markdown.com/)
